@@ -15,7 +15,7 @@ What makes my project stand out is that it highlights very important dietary inf
 - [Questions](#questions)
 
 ## Installation
-No installation is required, to give the game a go use the deployed website link.
+No installation is required, to give the app a go use the deployed website link.
 
 ## Usage
 The following image shows the web application's appearance and functionality:
